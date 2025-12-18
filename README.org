@@ -2,9 +2,9 @@
 
 Qtools is a collection of utilities to aid development with CommonQt
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/qtools.git   |
-| commit  | 0bb6e7c  |
-| systems | qtools |
-|---------+-------------------------------------------|
+|---------+-----------------------------------------------|
+| source  | git:https://codeberg.org/Shinmera/qtools.git |
+| commit  | 0bb6e7c                                       |
+| systems | qtools                                        |
+|---------+-----------------------------------------------|
 
